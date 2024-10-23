@@ -31,6 +31,11 @@
 
 ### **Redis Cloud**
 
+### Create your database when you first sign up
+<img width="628" alt="Screenshot 2024-10-23 at 16 54 41" src="https://github.com/user-attachments/assets/f890e56a-2867-44dc-8015-0226b3840100">
+
+### Connect to your database from the browser after downloading Redis Insight
+
 ## 2 - The SQL query run in BigQuery and the results
 <img width="1181" alt="Screenshot 2024-10-23 at 15 51 42" src="https://github.com/user-attachments/assets/b4c41358-a72b-407c-a08b-7cc12fb3f086">
 
@@ -44,6 +49,7 @@ super easy, simple, and straightforward to do
 everything was simple when starting to create the cluster and then making a connection through the app. got a bit more confused on how to add collection and then convert it to json but eventually was able to figure it out!
 
 ### **Redis Cloud**
+having a much harder time on how to import the dataset
 
 Describe the setup process and any configuration steps.
 Share your reflections on the interface and usability of each platform.
